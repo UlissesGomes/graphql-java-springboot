@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: GraphQL
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ulisses.gomes
+Implementation-Vendor-Id: GraphQL
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/GraphQL
+Created-By: Maven Integration for Eclipse
+
